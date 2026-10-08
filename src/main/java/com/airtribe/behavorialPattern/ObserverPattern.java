@@ -1,4 +1,4 @@
-package com.airtribe.meditrack.behavorialPattern;
+package com.airtribe.behavorialPattern;
 
 /**
  The Observer pattern is used when one object changes state and multiple other objects

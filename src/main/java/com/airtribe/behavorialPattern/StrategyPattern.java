@@ -1,4 +1,4 @@
-package com.airtribe.meditrack.behavorialPattern;
+package com.airtribe.behavorialPattern;
 /**
  A checkout flow can use different payment strategies:
 
